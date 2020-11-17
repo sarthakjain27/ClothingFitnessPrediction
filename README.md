@@ -8,6 +8,8 @@ This file contains pipeline code for following things:
 - Imputing missing values for each feature
 - Visualizing relationship of each feature with dependent variable *"fit"* for each item category in dataset
 
+The already executed file showing cell outputs can be accessed from [here](https://drive.google.com/file/d/1K7DS7rU7QyezsJMwdvL5NTXWAxMjAcPY/view?usp=sharing). 
+
 ## **MLPipeline.ipynb**
 This file contains pipeline code for following things:
 - Data Processing without any visualizations
@@ -15,6 +17,8 @@ This file contains pipeline code for following things:
 - Converting categorical to numerical variables
 - Implementing GridSearchCV for hypertuning
 - ML models & their classification report for both datasets
+
+The already executed file showing cell outputs can be accessed from [here](https://colab.research.google.com/drive/1tDbGgiZRe-WfS4ZzdjqsowWiGYSNp1bD?usp=sharing).
 
 ## **Datasets.zip**
 This is a zipped file that contains a folder titled *"Datasets"*. This folder contains two json files namely:
