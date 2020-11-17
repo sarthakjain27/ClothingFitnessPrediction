@@ -1,7 +1,7 @@
 # ClothingFitnessPrediction
 This repo contains our work on ModCloth &amp; RentTheRunWay datasets for processing and fitness prediction.
 
-## **DataProcessingVisualizationPipeline.ipynb**
+## **DataProcessingVisualization.ipynb**
 This file contains pipeline code for following things:
 - Mounting of Google drive
 - Loading datasets from json files to dataframe
