@@ -8,7 +8,8 @@ This file contains pipeline code for following things:
 - Imputing missing values for each feature
 - Visualizing relationship of each feature with dependent variable *"fit"* for each item category in dataset
 
-The already executed file showing cell outputs can be accessed from [here](https://drive.google.com/file/d/1K7DS7rU7QyezsJMwdvL5NTXWAxMjAcPY/view?usp=sharing). 
+The already executed file showing cell outputs can be accessed from [here](https://colab.research.google.com/drive/1qTAZunAH1KW8c4uFiYxDE-ePBYX3Dr0D?usp=sharing).
+The above file opens directly on Google colab and thus the file with outputs can be directly seen. 
 
 ## **MLPipeline.ipynb**
 This file contains pipeline code for following things:
@@ -19,6 +20,7 @@ This file contains pipeline code for following things:
 - ML models & their classification report for both datasets
 
 The already executed file showing cell outputs can be accessed from [here](https://colab.research.google.com/drive/1tDbGgiZRe-WfS4ZzdjqsowWiGYSNp1bD?usp=sharing).
+The above file opens directly on Google colab and thus the file with outputs can be directly seen.
 
 ## **Datasets.zip**
 This is a zipped file that contains a folder titled *"Datasets"*. This folder contains two json files namely:
